@@ -1,3 +1,3 @@
 <?php
-echo "Hellow Word";
+echo "Ola Mundo";
 ?>
